@@ -2,12 +2,12 @@ import { Truck, Route } from "lucide-react";
 
 export default function Header() {
   return (
-    <header className="sticky top-0 z-50 bg-white/90 backdrop-blur border-b border-slate-200">
+    <header className="sticky top-0 z-[100] bg-white/95 backdrop-blur-md shadow-xl shadow-slate-100/80">
       <div className="max-w-7xl mx-auto h-20 px-6 flex items-center justify-between">
 
         <div className="flex items-center gap-4">
 
-          <div className="w-12 h-12 rounded-2xl bg-blue-600 flex items-center justify-center shadow-lg">
+          <div className="w-12 h-12 rounded-2xl bg-blue-600 flex items-center justify-center shadow-md">
             <Truck className="text-white" size={24} />
           </div>
 
