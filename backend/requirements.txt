@@ -1,1 +1,8 @@
 
+asgiref
+Django>=4.2,<5.1
+django-cors-headers
+gunicorn
+whitenoise
+
+djangorestframework
