@@ -4,7 +4,6 @@ aiosignal==1.4.0
 altgraph==0.17.4
 apify_client==2.5.0
 apify_shared==2.2.0
-apturl==0.5.2
 asgiref==3.11.1
 async-timeout==5.0.1
 attrs==25.4.0
