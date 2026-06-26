@@ -11,10 +11,10 @@ import os
 import sys
 from pathlib import Path
 
-# Calculate the path to the 'backend' directory dynamically
+# 1. Locate the 'backend' folder dynamically relative to this file
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-# Inject the 'backend' directory into Python's search paths
+# 2. Tell Python to check the 'backend' folder when importing modules
 if str(BASE_DIR) not in sys.path:
     sys.path.append(str(BASE_DIR))
 
