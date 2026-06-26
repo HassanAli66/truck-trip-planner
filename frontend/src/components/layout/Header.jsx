@@ -2,7 +2,7 @@ import { Truck, Route } from "lucide-react";
 
 export default function Header() {
   return (
-    <header className="sticky top-0 z-[100] bg-white/95 backdrop-blur-md shadow-xl shadow-slate-100/80">
+    <header className="sticky top-0 z-[9999] bg-white/90 backdrop-blur border-b border-slate-200 shadow-md">
       <div className="max-w-7xl mx-auto h-20 px-6 flex items-center justify-between">
 
         <div className="flex items-center gap-4">
