@@ -324,42 +324,6 @@ Potential enhancements include:
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots of:
-
-- Dashboard
-- Interactive Map
-- Driver Timeline
-- Generated Route
-
----
-
-# 🌐 Live Demo
-
-Add your deployed application URL here.
-
-Example
-
-```
-https://routewise.vercel.app
-```
-
----
-
-# 👨‍💻 Author
-
-**Hassan Hassan**
-
-Software Engineer
-
-GitHub:
-https://github.com/YOUR_USERNAME
-
-LinkedIn:
-https://linkedin.com/in/YOUR_PROFILE
-
----
 
 # 📄 License
 
